@@ -1,5 +1,5 @@
 header{
-    background-color: #950740;
+    background-color: #116c7a;
     color: white;
     padding: 10px;
     text-align: center;
@@ -17,7 +17,7 @@ header{
     width: 55%;
     border: 3px solid;
     outline: none;
-    border-color: transparent transparent #950740 transparent;
+    border-color: transparent transparent #116c7a transparent;
     text-align: center;
 }
 ::placeholder{
@@ -30,11 +30,11 @@ header{
     font-size: 1rem;
     margin-top: 15px;
     background-color: transparent;
-    border: #950740 3px solid;
+    border: #116c7a 3px solid;
     font-weight: bold;
 }
 .form-btn:hover{
-    background-color: #950740;
+    background-color: #116c7a;
     color: white;
     border-radius: 15px;
 }
@@ -47,7 +47,7 @@ header{
     font-weight: bold;
 }
 .short-url-div a:hover{
-    color: #950740;
+    color: #116c7a;
 }
 .short-url-btn-div button{
     padding: 10px;
@@ -55,12 +55,12 @@ header{
     font-size: 1rem;
     margin-top: 15px;
     background-color: transparent;
-    border: #950740 3px solid;
+    border: #116c7a 3px solid;
     font-weight: bold;
     margin-right: 8px;
 }
 .short-url-btn-div button:hover{
-    background-color: #950740;
+    background-color: #116c7a;
     color: white;
     border-radius: 15px;
 }
